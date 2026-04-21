@@ -1,0 +1,196 @@
+rank,company,ticker,ir_url,transcript_url,webcast_url,notes
+1,NVIDIA Corporation,NVDA,https://investor.nvidia.com/financial-info/quarterly-results/default.aspx,https://s201.q4cdn.com/141608511/files/doc_financials/2026/q4/NVDA-Q4-2026-Earnings-Call-25-February-2026-5_00-PM-ET.pdf,https://events.q4inc.com/attendee/412427890,"Transcript: PDF
+Webcast: Event page"
+2,Apple Inc.,AAPL,https://investor.apple.com/investor-relations/default.aspx,,,IR source points press release and financial statement. No transcript and webcast provided
+3,Alphabet Inc.,GOOGL,https://abc.xyz/investor/,https://s206.q4cdn.com/479360582/files/doc_events/2026/Feb/04/2025_Q4_Earnings_Transcript.pdf,https://www.youtube.com/watch?v=mIK5-yi7a-c,"Transcript: PDF
+Webcast: Youtube video"
+4,Alphabet Inc. (Class C),GOOG,https://abc.xyz/investor/,https://s206.q4cdn.com/479360582/files/doc_events/2026/Feb/04/2025_Q4_Earnings_Transcript.pdf,https://www.youtube.com/watch?v=mIK5-yi7a-c,same call as GOOGL
+5,Microsoft Corporation,MSFT,https://www.microsoft.com/en-us/investor,https://aka.ms/transcriptfy26q2,https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q2,"Transcript:Doc
+Webcast: Page with broadcast"
+6,"Amazon.com, Inc.",AMZN,https://ir.aboutamazon.com/quarterly-results/default.aspx,,https://s2.q4cdn.com/299287126/files/doc_financials/2025/q4/Amazon-Quarterly-Earnings-Report-Q4-2025-Full-Call-v1.mp3,"Transcript: None
+Webcast: Audio"
+7,Broadcom Inc.,AVGO,https://investors.broadcom.com/company-information/past-events,,https://edge.media-server.com/mmc/p/7q5qvzsp,"Transcript: None
+Webcast: Event page"
+8,"Tesla, Inc.",TSLA,https://ir.tesla.com/,https://app.saytechnologies.com/tesla-2025-q4?,https://ir.tesla.com/webcast-2026-01-28,"Transcript: Q and A
+Webcast: Event page"
+9,"Meta Platforms, Inc.",META,https://investor.atmeta.com/investor-events/default.aspx,https://s21.q4cdn.com/399680738/files/doc_financials/2025/q4/META-Q4-2025-Earnings-Call-Transcript.pdf,https://events.q4inc.com/attendee/275609691,"Transcript: PDF
+Webcast: Event Page"
+10,Walmart Inc.,WMT,https://stock.walmart.com/financial-information/financial-results,https://stock.walmart.com/_assets/_08ee5483ec4c057568cc8774f3fd6aad/walmart/db/938/9972/transcript_management_call/CORRECTED+TRANSCRIPT++Walmart%2C+Inc.%28WMT-US%29%2C+Q4+2026+Earnings+Call%2C+19-February-2026+8+00+AM+ET.pdf,https://www.youtube.com/live/X9vejVGlPEg,"Transcript: PDF
+Webcast: Youtube video"
+11,ASML Holding N.V.,ASML,https://www.asml.com/en/investors/financial-results,https://ourbrand.asml.com/m/2c5d94d7b9619350/original/ASML-Results-Video-Transcript-Q4-and-FY-2025.pdf,https://www.asml.com/en/investors/financial-results/q4-2025#investor,"Transcript: PDF
+Webcast: Event Page"
+12,Costco Wholesale Corporation,COST,https://investor.costco.com/events-and-presentations/default.aspx,,https://events.q4inc.com/attendee/165782124,"Transcript: None
+Webcast: Event page"
+13,"Micron Technology, Inc.",MU,https://investors.micron.com/events-and-presentations,https://investors.micron.com/static-files/e089f8c0-065d-47b8-9d02-bfa863cdb357,https://events.q4inc.com/attendee/962359207,"Transcript: PDF
+Webcast: Event Page"
+14,"Netflix, Inc.",NFLX,https://ir.netflix.net/financials/quarterly-earnings/default.aspx,https://s22.q4cdn.com/959853165/files/doc_financials/2025/q4/Netflix-Inc-_Earnings-Call_2026-01-20_English-1.pdf,https://www.youtube.com/live/GYqP8zJLYKk,"Transcript: PDF
+Webcast: Youtube video"
+15,Palantir Technologies Inc.,PLTR,https://investors.palantir.com/financials/quarterly-results,,https://www.youtube.com/live/qQYAHS0oaiY,"Transcript:None
+Webcast: Youtube video"
+16,"Advanced Micro Devices, Inc.",AMD,https://ir.amd.com/financial-information/financial-results,https://d1io3yog0oux5.cloudfront.net/_82bea3dbebc803d58a0640ab0620fe45/amd/db/841/9223/webcast_transcript/AMD+Fiscal+Fourth+Quarter+and+Full+Year+2025+Financial+Results.pdf,https://edge.media-server.com/mmc/p/f3ya3e9u/,"Transcript: PDF
+Webcast: Event Page"
+17,"Cisco Systems, Inc.",CSCO,https://investor.cisco.com/financials/quarterly-results/default.aspx,https://investor.cisco.com/files/doc_financials/2026/q2/Q2FY26-Prepared-Remarks.pdf,https://events.q4inc.com/attendee/204970669,"Transcript: Prepared remarks PDF
+Webcast: Event Page"
+18,"Applied Materials, Inc.",AMAT,https://ir.appliedmaterials.com/financial-information/quarterly-results,https://ir.appliedmaterials.com/static-files/8beb86c0-2533-4d20-ba09-41fab41fc451,https://edge.media-server.com/mmc/p/pxtynons,"Transcript: Prepared remarks PDF
+Webcast: Event Page"
+19,Lam Research Corporation,LRCX,https://investor.lamresearch.com/quarterly-results,,,IR source points press release and financial statement. No transcript and webcast provided
+20,"T-Mobile US, Inc.",TMUS,https://investor.t-mobile.com/financials/quarterly-results/default.aspx,https://s29.q4cdn.com/310188824/files/doc_financials/2025/q4/TMUS-USQ_Transcript_2026-02-11.pdf,https://www.youtube.com/live/CuGLWQBGdwE,"Transcript: PDF
+Webcast: Youtube video"
+21,Linde plc,LIN,https://www.linde.com/investors/financial-reports,"https://assets.linde.com/-/media/global/corporate/corporate/documents/investors/quarterly-earnings/investor-call-transcript-4q25.pdf
+",https://events.q4inc.com/attendee/741580801,"Transcript: PDF
+Webcast: Event Page"
+22,Intel Corporation,INTC,https://www.intc.com/financial-info/financial-results,https://d1io3yog0oux5.cloudfront.net/_73b2ee7ab91cd882e553832a55ba2453/intel/db/887/9159/prepared_remarks/Intel-4Q2025-Earnings-Call+1+%281%29.pdf,https://edge.media-server.com/mmc/p/avrgtu82,"Transcript: Prepared remarks PDF
+Webcast: Event Page"
+23,"PepsiCo, Inc.",PEP,https://investors.pepsico.com/investors/earnings/index.html,https://investors.pepsico.com/docs/pepsico-5v9wci20/media/Files/investors/q4-2025-pep_transcript.pdf,https://edge.media-server.com/mmc/p/bk9s3ib8/,"Transcript: PDF
+Webcast: Event Page"
+24,Amgen Inc.,AMGN,https://investors.amgen.com/financials/quarterly-earnings,,https://amgen2.rev.vbrick.com/#/videos/8b979292-2f72-438e-a06d-7fad1779f78d,"Transcript: None
+Webcast: Event Page"
+25,KLA Corporation,KLAC,https://ir.kla.com/financial-information/financial-results,,https://event.on24.com/wcc/r/5196218/4B0D18E83212468B72F0AC0168A22E0E,"Transcript: None
+Webcast: Event Page"
+26,Texas Instruments Incorporated,TXN,https://investor.ti.com/financial-information/earnings-annual-reports,https://investor.ti.com/static-files/7901445c-3338-4108-81d2-872ae768cf9d,https://investor.ti.com/static-files/19be57de-9e91-4e0f-849e-e9149ba3037e,"Transcript: PDF
+Webcast: Event Page"
+27,"Gilead Sciences, Inc.",GILD,https://investors.gilead.com/financials/quarterly-results/default.aspx,https://s29.q4cdn.com/585078350/files/doc_financials/2025/q4/GILD-Q4-FY25-Prepared-Remarks-10-February-2026.pdf,https://events.q4inc.com/attendee/540634601,"Transcript: Prepared remarks PDF
+Webcast: Event Page"
+28,"Intuitive Surgical, Inc.",ISRG,https://isrg.intuitive.com/events-and-presentations,,https://edge.media-server.com/mmc/p/87d7r3w6/,"Transcript: None
+Webcast: Event Page"
+29,Arm Holdings plc,ARM,https://investors.arm.com/financials/quarterly-annual-results,https://investors.arm.com/static-files/ba30dca7-d2dd-4d44-b4c5-9fd953fedaea,https://edge.media-server.com/mmc/p/o443v7p2/,"Transcript: PDF
+Webcast: Event Page"
+30,"Analog Devices, Inc.",ADI,https://investor.analog.com/financial-info/quarterly-results,https://investor.analog.com/static-files/6040f10c-669c-487e-bfa8-60eb1db6c369,https://edge.media-server.com/mmc/p/ynzkb98q,"Transcript: PDF
+Webcast: Event Page"
+31,Shopify Inc.,SHOP,https://www.shopify.com/investors/quarterly-results,,https://edge.media-server.com/mmc/p/s8qyi4sm/,"Transcript: None
+Webcast: Event Page"
+32,Honeywell International Inc.,HON,https://investor.honeywell.com/financial-information/quarterly-results,,https://event.choruscall.com/mediaframe/webcast.html?webcastid=6KTxdalw,"Transcript: None
+Webcast: Event Page"
+33,PDD Holdings Inc.,PDD,https://investor.pddholdings.com/financial-information/quarterly-results,,https://edge.media-server.com/mmc/p/6iz2hdu6/,"Transcript: None
+Webcast: Event Page"
+34,QUALCOMM Incorporated,QCOM,https://investor.qualcomm.com/overview/default.aspx,https://s204.q4cdn.com/645488518/files/doc_events/2026/Feb/04/Q1FY26-Earnings-Call-Transcript_2-5-26_Final.pdf,https://event.choruscall.com/mediaframe/webcast.html?webcastid=hR1D6rgV,"Transcript: PDF
+Webcast: Event Page"
+35,Booking Holdings Inc.,BKNG,https://ir.bookingholdings.com/financials/quarterly-results/default.aspx,https://s201.q4cdn.com/865305287/files/doc_financials/2025/q4/Q4-25-Prepared-Remarks-for-Website.pdf,https://events.q4inc.com/attendee/194668582,"Transcript: Prepared remarks PDF
+Webcast: Event Page"
+36,AppLovin Corporation,APP,https://investors.applovin.com/financials/quarterly-results/default.aspx,,https://s21.q4cdn.com/165405286/files/doc_financials/2025/q4/2025-Q4-Earnings-Call-Final-and-QandA.mp4,"Transcript: None
+Webcast: Video"
+37,"Palo Alto Networks, Inc.",PANW,https://investors.paloaltonetworks.com/financial-information/quarterly-results/,https://investors.paloaltonetworks.com/static-files/16d1b661-d762-4918-b2c6-e3ed8bef4e32,https://players.brightcove.net/6266360586001/default_default/index.html?videoId=6389495179112,"Transcript: PDF
+Webcast: Event Page"
+38,Intuit Inc.,INTU,https://investors.intuit.com/financial-information/financial-results,https://investors.intuit.com/_assets/_08ee5483ec4c057568cc8774f3fd6aad/intuit/db/946/10358/webcast_transcript/Q2FY26+Earnings+Script+02.26.2026.pdf,https://event.on24.com/wcc/r/5212854/F7C210BCD65C1A932A1008F0A24220C1,"Transcript: PDF
+Webcast: Event Page"
+39,Vertex Pharmaceuticals Incorporated,VRTX,https://investors.vrtx.com/financial-information/quarterly-results,,https://event.choruscall.com/mediaframe/webcast.html?webcastid=HCqh5zZn,"Transcript: None
+Webcast: Event Page"
+40,Sanofi,SNY,https://www.sanofi.com/en/investors/news-events/past-events,,https://www.youtube.com/watch?v=OySAhHaw0sA,"Transcript: None
+Webcast: Youtube video"
+41,Constellation Energy Corporation,CEG,https://investors.constellationenergy.com/events-and-presentations/past-events,,https://edge.media-server.com/mmc/p/zgdiiuti/,"Transcript: None
+Webcast: Event Page"
+42,CME Group Inc.,CME,https://www.cmegroup.com/investor-relations/financial-information/quarterly-statements.html,https://investor.cmegroup.com/static-files/33a82b31-b02f-47fd-9c5b-b7fd56ebcf57,https://edge.media-server.com/mmc/p/pe6wzpxt,"Transcript: Prepared remarks PDF
+Webcast: Event Page"
+43,Starbucks Corporation,SBUX,https://investor.starbucks.com/events-presentations/default.aspx,https://s203.q4cdn.com/326826266/files/doc_financials/2026/q1/SBUX-1Q26-CORRECTED-TRANSCRIPT.pdf,https://event.choruscall.com/mediaframe/webcast.html?webcastid=Im3S8SaF,"Transcript: PDF
+Webcast: Event Page"
+44,Comcast Corporation,CMCSA,https://www.cmcsa.com/events-and-presentations,https://www.cmcsa.com/static-files/4baddd97-e649-4e24-a359-cafd4f7606a1,https://edge.media-server.com/mmc/p/664mj5i5,"Transcript: PDF
+Webcast: Event Page"
+45,"CrowdStrike Holdings, Inc.",CRWD,https://ir.crowdstrike.com/financial-information/quarterly-results,,https://crowdstrike-fiscal-fourth-quarter-2026-results-conference-call.open-exchange.net/,"Transcript: None
+Webcast: Event Page"
+46,Adobe Inc.,ADBE,https://www.adobe.com/investor-relations.html,https://www.adobe.com/cc-shared/assets/investor-relations/pdfs/21306202/c545hjdryueyw34.pdf,https://event.webcasts.com/starthere.jsp?ei=1749720&tp_key=e4d99a3d7f&tp_special=8,"Transcript: Script and Slides
+Webcast: Event Page"
+47,"Equinix, Inc.",EQIX,https://investor.equinix.com/financial-information/financial-results,,https://event.choruscall.com/mediaframe/webcast.html?webcastid=vziv0wUw,"Transcript: None
+Webcast: Event Page"
+48,Western Digital Corporation,WDC,https://investor.wdc.com/investor-events/conference-calls,,https://edge.media-server.com/mmc/p/9jpjn9pd,"Transcript: None
+Webcast: Event Page"
+49,Sandisk Corporation,SNDK,https://investor.sandisk.com/news-events/events,,https://edge.media-server.com/mmc/p/eqpwxhaf,"Transcript: None
+Webcast: Event Page"
+50,"Marriott International, Inc.",MAR,https://marriott.gcs-web.com/events-and-presentations,https://marriott.gcs-web.com/static-files/30de714f-753d-4ee1-8ea8-d55cf9d7424a,https://edge.media-server.com/mmc/p/jprqa5ve/,"Transcript: PDF
+Webcast: Event Page"
+51,"Marvell Technology, Inc.",MRVL,https://investor.marvell.com/financial-information/financial-results,,https://event.choruscall.com/mediaframe/webcast.html?webcastid=xMiQqSpG,"Transcript: None
+Webcast: Event Page"
+52,"MercadoLibre, Inc.",MELI,https://investor.mercadolibre.com/sec-filings,,https://www.youtube.com/watch?v=c6Ew6xdKOK8,"Transcript:Provided on page, but it keeps on changing its blob url
+Webcast: Youtube video"
+53,Seagate Technology Holdings plc,STX,https://investors.seagate.com/financials/quarterly-results/default.aspx,https://s24.q4cdn.com/101481333/files/doc_financials/2026/q2/CORRECTED-TRANSCRIPT_-Seagate-Technology-Holdings-Plc-STX-US-Q2-2026-Earnings-Call-27-January-2026-5_00-PM-ET.pdf,https://events.q4inc.com/attendee/668454022,"Transcript: PDF
+Webcast: Event Page"
+54,"Automatic Data Processing, Inc.",ADP,https://investors.adp.com/financials/quarterly-results/default.aspx,https://s205.q4cdn.com/887941133/files/doc_downloads/2026/01/ADP-2QFY26-Transcript-Final.pdf,https://edge.media-server.com/mmc/p/newdadx8/,"Transcript: PDF
+Webcast: Event Page"
+55,"Regeneron Pharmaceuticals, Inc.",REGN,https://investor.regeneron.com/financial-information/quarterly-results,https://investor.regeneron.com/static-files/e1a0c96b-d854-4adb-8508-a2c5ae2e4f70,https://edge.media-server.com/mmc/p/yy5tpzof,"Transcript: PDF
+Webcast: Event Page"
+56,"Airbnb, Inc.",ABNB,https://investors.airbnb.com/financials/default.aspx,https://s26.q4cdn.com/656283129/files/doc_financials/2025/q4/Airbnb-Q4-25-Earnings-Call-Transcript.pdf,https://events.q4inc.com/attendee/468531313,"Transcript: PDF
+Webcast: Event Page"
+57,"O'Reilly Automotive, Inc.",ORLY,https://corporate.oreillyauto.com/quarterly-reports/,https://d2ghdaxqb194v2.cloudfront.net/3012/199305.pdf,https://www.webcaster5.com/Webcast/Page/2939/53309,"Transcript: PDF
+Webcast: Event Page"
+58,"Synopsys, Inc.",SNPS,https://investor.synopsys.com/financials/quarterly-results/default.aspx,https://s201.q4cdn.com/778493406/files/doc_earnings/2026/q1/transcript/SNPS_Q126_Prepared_Remarks.pdf,https://events.q4inc.com/attendee/678563623,"Transcript: Prepared remarks PDF
+Webcast: Event Page"
+59,"Cadence Design Systems, Inc.",CDNS,https://investor.cadence.com/financials/quarterly-results/default.aspx,https://s206.q4cdn.com/597110084/files/doc_financials/2025/q4/CDNS-Q4-2025-Earnings-Conference-Call-Prepared-Remarks.pdf,,"Transcript: Prepared remarks PDF
+Webcast: None"
+60,"Mondelez International, Inc.",MDLZ,https://ir.mondelezinternational.com/news-and-events/events,https://ir.mondelezinternational.com/static-files/2449b56f-ced9-4fe9-bb52-d806f7964e9d,https://edge.media-server.com/mmc/p/ztdc8ixt,"Transcript: Prepared remarks PDF
+Webcast: Event Page"
+61,CSX Corporation,CSX,https://investors.csx.com/news-and-events/events-and-presentations/default.aspx,,https://events.q4inc.com/attendee/357133664,"Transcript: None
+Webcast: Event Page"
+62,Monster Beverage Corporation,MNST,https://investors.monsterbevcorp.com/financial-information/quarterly-results,,https://edge.media-server.com/mmc/p/d39e5dus,"Transcript: None
+Webcast: Event Page"
+63,"Ross Stores, Inc.",ROST,https://investors.rossstores.com/events-and-presentations/past-events,,https://edge.media-server.com/mmc/p/isgw4w7p,"Transcript: None
+Webcast: Event Page"
+64,"NetEase, Inc.",NTES,https://ir.netease.com/webcasts,,https://edge.media-server.com/mmc/p/393r2dzt/,"Transcript: None
+Webcast: Event Page"
+65,"American Electric Power Company, Inc.",AEP,,,,
+66,Cintas Corporation,CTAS,https://www.cintas.com/investors/,,https://edge.media-server.com/mmc/p/x9b4ett5/,"Transcript: None
+Webcast: Event Page"
+67,"Warner Bros. Discovery, Inc.",WBD,https://ir.wbd.com/financial-information/quarterly-results,,https://events.q4inc.com/attendee/962598014,"Transcript: None
+Webcast: Event Page"
+68,"DoorDash, Inc.",DASH,https://ir.doordash.com/financials/quarterly-results/default.aspx,,https://events.q4inc.com/attendee/553685716,"Transcript: None
+Webcast: Event Page"
+69,"Robinhood Markets, Inc.",HOOD,https://investors.robinhood.com/financials/quarterly-results,https://investors.robinhood.com/static-files/7bdf75f3-f83e-4b77-ace7-945e3578f9f4,https://www.youtube.com/live/gbiQvnF6vU8,"Transcript: PDF
+Webcast: Youtube video"
+70,Baker Hughes Company,BKR,https://investors.bakerhughes.com/financial-information/quarterly-results,https://investors.bakerhughes.com/files/doc_financials/2025/Q4/Baker-Hughes-4Q25-Earnings-Call-Prepared-Remarks-1-25-2025.pdf,,"Transcript: PDF
+Webcast: None"
+71,PACCAR Inc,PCAR,https://investors.paccar.com/financials/quarterly-results/default.aspx,,,IR source points press release and financial statement. No transcript and webcast provided
+72,"Fortinet, Inc.",FTNT,https://investor.fortinet.com/quarterly-earnings/,https://investor.fortinet.com/static-files/6e0774bc-f44b-4f53-be97-c302d6664d71,https://fortinet-q4-2025-earnings-call.open-exchange.net/registration,"Transcript: Prepared Remarks PDF
+Webcast: Event Page"
+73,"Diamondback Energy, Inc.",FANG,https://ir.diamondbackenergy.com/investors/financial-information/quarterly-results,,https://edge.media-server.com/mmc/p/766qy3a8/,"Transcript: None
+Webcast: Event Page"
+74,Medline Inc.,MDLN,https://ir.medline.com/financial-information/quarterly-results,,https://edge.media-server.com/mmc/p/y2kkwrox,"Transcript: None
+Webcast: Event Page"
+75,"Monolithic Power Systems, Inc.",MPWR,https://www.monolithicpower.com/en/about-mps/investor-relations/events-presentations.html,https://www.monolithicpower.com/media/investor-relations/events/Q4_2025_MPS_Earnings_Webinar_Transcript.pdf,https://www.youtube.com/watch?v=Iv6ecG0aKAI,"Transcript: PDF
+Webcast: Youtube video"
+76,Fastenal Company,FAST,https://investor.fastenal.com/financial-results/quarterly-results/default.aspx,,https://event.choruscall.com/mediaframe/webcast.html?webcastid=dHjzBQo2,"Transcript: None
+Webcast: Event Page"
+77,"Autodesk, Inc.",ADSK,https://investors.autodesk.com/financials/quarterly-results,https://investors.autodesk.com/static-files/39288147-1c57-4b9a-a249-cd294a7c4269,https://edge.media-server.com/mmc/p/p3wiqt9s,"Transcript: Prepared Remarks PDF
+Webcast: Event Page"
+78,Electronic Arts Inc.,EA,https://ir.ea.com/financials/quarterly-results/default.aspx,,,"Transcript: None
+Webcast: None
+
+links for Q3 are not provided yet"
+79,NXP Semiconductors N.V.,NXPI,https://investors.nxp.com/financial-information/financial-information-0,,https://edge.media-server.com/mmc/p/gt25sdgz/,"Transcript: None
+Webcast: Event Page"
+80,Exelon Corporation,EXC,https://investors.exeloncorp.com/events-and-presentations/past-events,,https://edge.media-server.com/mmc/p/g777g5cs/,"Transcript: None
+Webcast: Event Page"
+81,Lumentum Holdings Inc.,LITE,https://investor.lumentum.com/quarterly-results/default.aspx,,https://events.q4inc.com/attendee/474603305,"Transcript: None
+Webcast: Event Page"
+82,"Nasdaq, Inc.",NDAQ,https://ir.nasdaq.com/news-and-events/events-and-presentations,,https://edge.media-server.com/mmc/p/qyku2ar8,"Transcript: None
+Webcast: Event Page"
+83,"Teradyne, Inc.",TER,https://investors.teradyne.com/financial-results,https://d1io3yog0oux5.cloudfront.net/_58f5a6f3034c3b689ee359559456042c/teradyne/db/938/9630/webcast_transcript/Teradyne+4Q25+and+Full+Year+Earnings+Call+Transcript.pdf,https://event.on24.com/wcc/r/5198489/8731865D8A1396A7521FDB6F115F2A2F,"Transcript: PDF
+Webcast: Event Page"
+84,"Coinbase Global, Inc.",COIN,https://investor.coinbase.com/financials/quarterly-results/default.aspx,https://s27.q4cdn.com/397450999/files/doc_financials/2025/q4/Q4-25-Earnings-Call-Transcript.pdf,https://www.youtube.com/live/5u17c4xICtM,"Transcript: PDF
+Webcast: Youtube video"
+85,"IDEXX Laboratories, Inc.",IDXX,https://ir.idexx.com/financial-results,https://d1io3yog0oux5.cloudfront.net/_323a184c4f62087ccc40b5229636676c/idexx/db/3734/35309/prepared_remarks/2025-q4-prepared+remarks.pdf,https://event.webcasts.com/starthere.jsp?ei=1748763&tp_key=a0edb1029b,"Transcript: Prepared Remarks PDF
+Webcast: Event Page"
+86,Ferrovial SE,FER,https://www.ferrovial.com/en/ir-shareholders/financial-information/quarterly-financial-information/,https://static.ferrovial.com/wp-content/uploads/2026/02/25100338/transcript-ferrovial-earnings-call-fy-2025.pdf,https://www.youtube-nocookie.com/embed/QopiJ_7LVQY,"Transcript: PDF
+Webcast: Youtube video"
+87,Strategy Inc,MSTR,https://www.strategy.com/es/investor-relations/events-presentations,,,IR source has last updated events of 2024
+88,"Datadog, Inc.",DDOG,https://investors.datadoghq.com/financial-information/quarterly-results,https://investors.datadoghq.com/static-files/71a1a6e1-3028-48a3-90f3-7662b76604e2,https://edge.media-server.com/mmc/p/x9mbvjc5,"Transcript: PDF
+Webcast: Event Page"
+89,"Alnylam Pharmaceuticals, Inc.",ALNY,https://investors.alnylam.com/events,,https://events.q4inc.com/attendee/520961416,"Transcript: None
+Webcast: Event Page"
+90,argenx SE,ARGX,https://argenx.com/investors/events-presentations,,https://events.q4inc.com/attendee/109460748,"Transcript: None
+Webcast: Event Page"
+91,"CoreWeave, Inc.",CRWV,https://investors.coreweave.com/financials/quarterly-results/default.aspx,https://s205.q4cdn.com/133937190/files/doc_financials/2025/q4/CORRECTED-TRANSCRIPT-CoreWeave-Inc-CRWV-US-Q4-2025-Earnings-Call-26-February-2026-5-00-PM-ET.pdf,https://events.q4inc.com/attendee/883446903,"Transcript: PDF
+Webcast: Event Page"
+92,Coca-Cola Europacific Partners PLC,CCEP,https://ir.cocacolaep.com/financial-reports-and-results/financial-releases,https://ir.cocacolaep.com/static-files/2b17d95b-7334-4fd3-a5a4-1e6a66315be8,https://edge.media-server.com/mmc/p/sq6cd4di/,"Transcript: PDF
+Webcast: Event Page"
+93,"PayPal Holdings, Inc.",PYPL,https://investor.pypl.com/financials/quarterly-results/default.aspx,https://s205.q4cdn.com/875401827/files/doc_financials/2025/q4/PayPal-4Q-25-Earnings-Transcript.pdf,https://events.q4inc.com/attendee/366736365,"Transcript: PDF
+Webcast: Event Page"
+94,Elbit Systems Ltd.,ESLT,,,,
+95,Fifth Third Bancorp,FITB,https://ir.53.com/financial-information/quarterly-results,,,No transcript and webcast provided yet for latest quarter
+96,Thomson Reuters Corporation,TRI,https://ir.thomsonreuters.com/financial-information/quarterly-reports,https://ir.thomsonreuters.com/static-files/a0b9f966-15f0-48b8-87d9-4d940c165593,https://event.webcasts.com/starthere.jsp?ei=1740710&tp_key=ac708ba00e,"Transcript: PDF
+Webcast: Event Page"
+97,eBay Inc.,EBAY,https://investors.ebayinc.com/financial-information/financial-summary/default.aspx,,https://ebay-q4-2025-earnings-call-x8g4qi.open-exchange.net/,"Transcript: None
+Webcast: Event Page"
+98,"JD.com, Inc.",JD,https://ir.jd.com/financial-information/quarterly-results,,https://edge.media-server.com/mmc/p/igny9ruz,"Transcript: None
+Webcast: Event Page"
+99,"Old Dominion Freight Line, Inc.",ODFL,https://ir.odfl.com/financials/financial-results,,https://event.choruscall.com/mediaframe/webcast.html?webcastid=By0FSlZq,"Transcript: None
+Webcast: Event Page"
+100,Telefonaktiebolaget LM Ericsson (publ),ERIC,https://www.ericsson.com/en/investors/financial-reports-and-presentations,,https://edge.media-server.com/mmc/p/f5o5z9ut/,"Transcript: None
+Webcast: Event Page"
